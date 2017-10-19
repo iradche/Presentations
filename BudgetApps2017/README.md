@@ -5,8 +5,9 @@
 
 
 
-1. Хаб данных: https://hubofdata.ru/dataset/customs-stats        
-2. Задачи к конкурсу BudgetApps: https://github.com/infoculture/budgetapps/issues      
+1. Видеозапись мастер-класса: https://youtu.be/FPb3UvSTM0c    
+2. Хаб данных: https://hubofdata.ru/dataset/customs-stats        
+3. Задачи к конкурсу BudgetApps: https://github.com/infoculture/budgetapps/issues      
 
        
 
